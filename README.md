@@ -7,3 +7,5 @@ Git Remote is amazing
 - SVN
 
 this is a push test
+
+练习一下 pull 指令
